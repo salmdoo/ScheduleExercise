@@ -47,17 +47,11 @@ Resources (Assets)
 
 ### Layer Descriptions
 
-- **Presentation Layer**: Contains SwiftUI views and ViewModels. Handles UI logic and user interaction, communicates with the Domain layer via UseCases and ViewModels.
-- **Domain Layer**: Contains core business logic, entities, and use case definitions. Defines repository interfaces (protocols) for data access.
-- **Data Layer**: Handles data sources (network, local JSON), DTOs for data mapping, and concrete repository implementations. Converts raw data into domain entities.
-- **Utilities/Resources**: Shared helpers, enums, extensions, and assets used across layers.
-
-### Example Flow
-1. **View** triggers an action (e.g., fetch schedule).
-2. **ViewModel** calls a **UseCase** from the Domain layer.
-3. **UseCase** requests data via a **Repository** protocol.
-4. **RepositoryImpl** in the Data layer fetches data (network/local), maps DTOs to Entities, and returns them.
-5. **ViewModel** updates the **View** with new data.
+- **Presentation Layer**: Contains SwiftUI Views (`Presentation/View`) and ViewModels (`Presentation/ViewModel`). Handles all UI rendering, user interaction, and state management. The ViewModel communicates with the Domain layer through UseCases.
+- **Domain Layer**: Contains core business logic, Entities (`Domain/Entity`), UseCases (`Domain/UseCase`), and Repository protocols (`Domain/Repository`). This layer is independent of frameworks and defines the application's business rules and contracts.
+- **Data Layer**: Responsible for data operations and mapping. Includes API endpoints (`Data/APIEndpoint`), DTOs (`Data/DTO`), networking (`Data/Network`), and repository implementations (`Data/RepositoryImpl`). Converts raw data (from network or local) into domain entities.
+- **Utilities**: Shared helpers, enums, extensions, image helpers, and theming (`Utilities/`).
+- **Resources**: Asset catalogs and images (`Resources/Assets`).
 
 
 ## Non-Functional Requirements
