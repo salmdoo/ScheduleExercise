@@ -52,9 +52,10 @@ struct ScheduleExerciseTests {
     
     @Test func testFetchScheduleSuccess() {
         // Given
-        let mockService = MockScheduleGamesService()
+        let mockRepository = MockScheduleGamesRepository()
+        let usecase = FetchScheduleGamesUsecase(repository: mockRepository)
         
-        let viewModel = ScheduleGamesViewModel(scheduleGamesService: mockService)
+        let viewModel = ScheduleGamesViewModel(usecase: usecase)
         let expectedSchedule = GameSchedule(
             defaultGameId: 2023091000,
             team: Team(triCode: "GB", name: "PACKERS", record: "8-9"),
@@ -92,9 +93,9 @@ struct ScheduleExerciseTests {
     
     @Test func testFetchScheduleFailureInvalidURL() {
         // Given
-        let mockService = MockScheduleGamesService()
+        let mockService = MockScheduleGamesRepository()
         mockService.shouldFailInvalidURL = true
-        let viewModel = ScheduleGamesViewModel(scheduleGamesService: mockService)
+        let viewModel = ScheduleGamesViewModel(usecase: usecase)
         
         // When
         viewModel.fetchSchedule()

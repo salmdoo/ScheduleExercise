@@ -157,12 +157,10 @@
 		14622C062DE02CB60066E98C /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
-				14E0891F2DFB122E005BD28C /* APIEndpoint */,
 				14622C3A2DE03B020066E98C /* Theme */,
 				14E0891E2DFA9936005BD28C /* ImageView */,
 				14E0891D2DFA9922005BD28C /* Extension */,
 				14622C3E2DE182E50066E98C /* Enum */,
-				14622C012DE02CB60066E98C /* Network */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -280,6 +278,8 @@
 			children = (
 				14622C482DE421C10066E98C /* DTO */,
 				14E0891B2DFA9618005BD28C /* RepositoryImpl */,
+				14622C012DE02CB60066E98C /* Network */,
+				14E0891F2DFB122E005BD28C /* APIEndpoint */,
 			);
 			path = Data;
 			sourceTree = "<group>";
