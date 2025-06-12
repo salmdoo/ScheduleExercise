@@ -1,0 +1,1060 @@
+{
+  "Team": {
+    "TriCode": "GB",
+    "FullName": "Green Bay Packers",
+    "Name": "PACKERS",
+    "City": "Green Bay",
+    "Record": "13-3",
+    "Wins": "13",
+    "Losses": "3",
+    "WinPercentage": ".813",
+    "PrimaryColor": "#203731"
+  },
+  "DefaultGameId": 2021011600,
+  "GameSection": [
+    {
+      "Heading": "REGULAR SEASON",
+      "Game": [
+        {
+          "Week": "Week 1",
+          "Label": "1",
+          "TV": "",
+          "Radio": "",
+          "Venue": "U.S. Bank Stadium",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":39",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "43",
+          "HomeScore": "34",
+          "Down": "3RD & 12, GB 47",
+          "IsHome": false,
+          "ScheduleHeader": "Week 1 - Sep 13",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020091306&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkxMzA2In0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkxMzA2In0%253d&GameStatsUrl=/Stats/Game/2020091306&GameBoxUrl=/Game/Box/2020091306&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020091306&gameId=2020091306",
+            "IsDefault": "True"
+          },
+          "Id": 2020091306,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-09-13",
+            "Text": "September 13, 2020",
+            "Time": "1:00 PM",
+            "Timestamp": "2020-09-13T17:00:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "MIN",
+            "FullName": "Minnesota Vikings",
+            "Name": "VIKINGS",
+            "City": "Minnesota",
+            "Record": "7-9"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "43-34 W",
+          "Home": false,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020091306&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkxMzA2In0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkxMzA2In0%253d&GameStatsUrl=/Stats/Game/2020091306&GameBoxUrl=/Game/Box/2020091306&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020091306&gameId=2020091306"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020091306"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 2",
+          "Label": "2",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":35",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "21",
+          "HomeScore": "42",
+          "Down": "3RD & 11, DET 30",
+          "IsHome": true,
+          "ScheduleHeader": "Week 2 - Sep 20",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020092002&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkyMDAyIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkyMDAyIn0%253d&GameStatsUrl=/Stats/Game/2020092002&GameBoxUrl=/Game/Box/2020092002&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020092002&gameId=2020092002",
+            "IsDefault": "False"
+          },
+          "Id": 2020092002,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-09-20",
+            "Text": "September 20, 2020",
+            "Time": "1:00 PM",
+            "Timestamp": "2020-09-20T17:00:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "DET",
+            "FullName": "Detroit Lions",
+            "Name": "LIONS",
+            "City": "Detroit",
+            "Record": "5-11"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "42-21 W",
+          "Home": true,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020092002&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkyMDAyIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkyMDAyIn0%253d&GameStatsUrl=/Stats/Game/2020092002&GameBoxUrl=/Game/Box/2020092002&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020092002&gameId=2020092002"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020092002"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 3",
+          "Label": "3",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Mercedes-Benz Superdome",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":32",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "37",
+          "HomeScore": "30",
+          "Down": "2ND & 11, NO 44",
+          "IsHome": false,
+          "ScheduleHeader": "Week 3 - Sep 27",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020092713&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkyNzEzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkyNzEzIn0%253d&GameStatsUrl=/Stats/Game/2020092713&GameBoxUrl=/Game/Box/2020092713&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020092713&gameId=2020092713",
+            "IsDefault": "False"
+          },
+          "Id": 2020092713,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-09-27",
+            "Text": "September 27, 2020",
+            "Time": "8:20 PM",
+            "Timestamp": "2020-09-28T00:20:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "NO",
+            "FullName": "New Orleans Saints",
+            "Name": "SAINTS",
+            "City": "New Orleans",
+            "Record": "12-4"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "37-30 W",
+          "Home": false,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020092713&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkyNzEzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMDkyNzEzIn0%253d&GameStatsUrl=/Stats/Game/2020092713&GameBoxUrl=/Game/Box/2020092713&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020092713&gameId=2020092713"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020092713"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 4",
+          "Label": "4",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":05",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "16",
+          "HomeScore": "30",
+          "Down": "2ND & 11, GB 35",
+          "IsHome": true,
+          "ScheduleHeader": "Week 4 - Oct 5",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020100500&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAwNTAwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAwNTAwIn0%253d&GameStatsUrl=/Stats/Game/2020100500&GameBoxUrl=/Game/Box/2020100500&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020100500&gameId=2020100500",
+            "IsDefault": "False"
+          },
+          "Id": 2020100500,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-10-05",
+            "Text": "October 5, 2020",
+            "Time": "9:00 PM",
+            "Timestamp": "2020-10-06T01:00:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "ATL",
+            "FullName": "Atlanta Falcons",
+            "Name": "FALCONS",
+            "City": "Atlanta",
+            "Record": "4-12"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "30-16 W",
+          "Home": true,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020100500&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAwNTAwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAwNTAwIn0%253d&GameStatsUrl=/Stats/Game/2020100500&GameBoxUrl=/Game/Box/2020100500&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020100500&gameId=2020100500"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020100500"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 5",
+          "Label": "5",
+          "TV": "",
+          "Radio": "",
+          "IsHome": false,
+          "ScheduleHeader": "Week 5 - BYE",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://action/NOOP"
+          },
+          "Id": 0,
+          "Type": "B",
+          "Result": "",
+          "Home": true
+        },
+        {
+          "Week": "Week 6",
+          "Label": "6",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Raymond James Stadium",
+          "WLT": "L",
+          "GameState": "Final",
+          "Clock": ":35",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "10",
+          "HomeScore": "38",
+          "Down": "3RD & 10, GB 21",
+          "IsHome": false,
+          "ScheduleHeader": "Week 6 - Oct 18",
+          "IsSuperStadium": true,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020101810&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAxODEwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAxODEwIn0%253d&GameStatsUrl=/Stats/Game/2020101810&GameBoxUrl=/Game/Box/2020101810&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020101810&gameId=2020101810",
+            "IsDefault": "False"
+          },
+          "Id": 2020101810,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-10-18",
+            "Text": "October 18, 2020",
+            "Time": "4:25 PM",
+            "Timestamp": "2020-10-18T20:25:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "TB",
+            "FullName": "Tampa Bay Buccaneers",
+            "Name": "BUCCANEERS",
+            "City": "Tampa Bay",
+            "Record": "11-5"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "10-38 L",
+          "Home": false,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020101810&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAxODEwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAxODEwIn0%253d&GameStatsUrl=/Stats/Game/2020101810&GameBoxUrl=/Game/Box/2020101810&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020101810&gameId=2020101810"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020101810"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 7",
+          "Label": "7",
+          "TV": "",
+          "Radio": "",
+          "Venue": "NRG Stadium",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":40",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "35",
+          "HomeScore": "20",
+          "Down": "3RD & 11, GB 31",
+          "IsHome": false,
+          "ScheduleHeader": "Week 7 - Oct 25",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020102503&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAyNTAzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAyNTAzIn0%253d&GameStatsUrl=/Stats/Game/2020102503&GameBoxUrl=/Game/Box/2020102503&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020102503&gameId=2020102503",
+            "IsDefault": "False"
+          },
+          "Id": 2020102503,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-10-25",
+            "Text": "October 25, 2020",
+            "Time": "1:00 PM",
+            "Timestamp": "2020-10-25T17:00:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "HOU",
+            "FullName": "Houston Texans",
+            "Name": "TEXANS",
+            "City": "Houston",
+            "Record": "4-12"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "35-20 W",
+          "Home": false,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020102503&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAyNTAzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTAyNTAzIn0%253d&GameStatsUrl=/Stats/Game/2020102503&GameBoxUrl=/Game/Box/2020102503&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020102503&gameId=2020102503"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020102503"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 8",
+          "Label": "8",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "L",
+          "GameState": "Final",
+          "Clock": ":00",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "28",
+          "HomeScore": "22",
+          "Down": "1ST & 10, MIN 28",
+          "IsHome": true,
+          "ScheduleHeader": "Week 8 - Nov 1",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020110104&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEwMTA0In0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEwMTA0In0%253d&GameStatsUrl=/Stats/Game/2020110104&GameBoxUrl=/Game/Box/2020110104&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020110104&gameId=2020110104",
+            "IsDefault": "False"
+          },
+          "Id": 2020110104,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-11-01",
+            "Text": "November 1, 2020",
+            "Time": "1:00 PM",
+            "Timestamp": "2020-11-01T18:00:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "MIN",
+            "FullName": "Minnesota Vikings",
+            "Name": "VIKINGS",
+            "City": "Minnesota",
+            "Record": "7-9"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "22-28 L",
+          "Home": true,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020110104&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEwMTA0In0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEwMTA0In0%253d&GameStatsUrl=/Stats/Game/2020110104&GameBoxUrl=/Game/Box/2020110104&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020110104&gameId=2020110104"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020110104"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 9",
+          "Label": "9",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Levi's® Stadium",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":00",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "34",
+          "HomeScore": "17",
+          "Down": "2ND & 11, GB 27",
+          "IsHome": false,
+          "ScheduleHeader": "Week 9 - Nov 5",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020110500&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEwNTAwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEwNTAwIn0%253d&GameStatsUrl=/Stats/Game/2020110500&GameBoxUrl=/Game/Box/2020110500&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020110500&gameId=2020110500",
+            "IsDefault": "False"
+          },
+          "Id": 2020110500,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-11-05",
+            "Text": "November 5, 2020",
+            "Time": "8:20 PM",
+            "Timestamp": "2020-11-06T01:20:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "SF",
+            "FullName": "San Francisco 49ers",
+            "Name": "49ERS",
+            "City": "San Francisco",
+            "Record": "6-10"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "34-17 W",
+          "Home": false,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020110500&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEwNTAwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEwNTAwIn0%253d&GameStatsUrl=/Stats/Game/2020110500&GameBoxUrl=/Game/Box/2020110500&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020110500&gameId=2020110500"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020110500"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 10",
+          "Label": "10",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":32",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "20",
+          "HomeScore": "24",
+          "Down": "3RD & 11, JAX 49",
+          "IsHome": true,
+          "ScheduleHeader": "Week 10 - Nov 15",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020111503&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTExNTAzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTExNTAzIn0%253d&GameStatsUrl=/Stats/Game/2020111503&GameBoxUrl=/Game/Box/2020111503&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020111503&gameId=2020111503",
+            "IsDefault": "False"
+          },
+          "Id": 2020111503,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-11-15",
+            "Text": "November 15, 2020",
+            "Time": "1:00 PM",
+            "Timestamp": "2020-11-15T18:00:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "JAX",
+            "FullName": "Jacksonville Jaguars",
+            "Name": "JAGUARS",
+            "City": "Jacksonville",
+            "Record": "1-15"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "24-20 W",
+          "Home": true,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020111503&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTExNTAzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTExNTAzIn0%253d&GameStatsUrl=/Stats/Game/2020111503&GameBoxUrl=/Game/Box/2020111503&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020111503&gameId=2020111503"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020111503"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 11",
+          "Label": "11",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lucas Oil Stadium",
+          "WLT": "L",
+          "GameState": "Final",
+          "Clock": "7:10",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "31",
+          "HomeScore": "34",
+          "Down": "1ST & 10, IND 35",
+          "IsHome": false,
+          "ScheduleHeader": "Week 11 - Nov 22",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020112204&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEyMjA0In0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEyMjA0In0%253d&GameStatsUrl=/Stats/Game/2020112204&GameBoxUrl=/Game/Box/2020112204&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020112204&gameId=2020112204",
+            "IsDefault": "False"
+          },
+          "Id": 2020112204,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-11-22",
+            "Text": "November 22, 2020",
+            "Time": "4:25 PM",
+            "Timestamp": "2020-11-22T21:25:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "INC",
+            "FullName": "Indianapolis Colts",
+            "Name": "COLTS",
+            "City": "Indianapolis",
+            "Record": "11-5"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "31-34 L",
+          "Home": false,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020112204&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEyMjA0In0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEyMjA0In0%253d&GameStatsUrl=/Stats/Game/2020112204&GameBoxUrl=/Game/Box/2020112204&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020112204&gameId=2020112204"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020112204"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 12",
+          "Label": "12",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":35",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "25",
+          "HomeScore": "41",
+          "Down": "3RD & 10, CHI 17",
+          "IsHome": true,
+          "ScheduleHeader": "Week 12 - Nov 29",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020112911&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEyOTExIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEyOTExIn0%253d&GameStatsUrl=/Stats/Game/2020112911&GameBoxUrl=/Game/Box/2020112911&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020112911&gameId=2020112911",
+            "IsDefault": "False"
+          },
+          "Id": 2020112911,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-11-29",
+            "Text": "November 29, 2020",
+            "Time": "8:20 PM",
+            "Timestamp": "2020-11-30T01:20:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "CHI",
+            "FullName": "Chicago Bears",
+            "Name": "BEARS",
+            "City": "Chicago",
+            "Record": "8-8"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "41-25 W",
+          "Home": true,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020112911&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEyOTExIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTEyOTExIn0%253d&GameStatsUrl=/Stats/Game/2020112911&GameBoxUrl=/Game/Box/2020112911&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020112911&gameId=2020112911"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020112911"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 13",
+          "Label": "13",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":25",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "16",
+          "HomeScore": "30",
+          "Down": "4TH & 13, GB 42",
+          "IsHome": true,
+          "ScheduleHeader": "Week 13 - Dec 6",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020120610&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIwNjEwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIwNjEwIn0%253d&GameStatsUrl=/Stats/Game/2020120610&GameBoxUrl=/Game/Box/2020120610&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020120610&gameId=2020120610",
+            "IsDefault": "False"
+          },
+          "Id": 2020120610,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-12-06",
+            "Text": "December 6, 2020",
+            "Time": "4:25 PM",
+            "Timestamp": "2020-12-06T21:25:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "PHI",
+            "FullName": "Philadelphia Eagles",
+            "Name": "EAGLES",
+            "City": "Philadelphia",
+            "Record": "4-11-1"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "30-16 W",
+          "Home": true,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020120610&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIwNjEwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIwNjEwIn0%253d&GameStatsUrl=/Stats/Game/2020120610&GameBoxUrl=/Game/Box/2020120610&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020120610&gameId=2020120610"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020120610"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 14",
+          "Label": "14",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Ford Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":22",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "31",
+          "HomeScore": "24",
+          "Down": "3RD & 12, DET 36",
+          "IsHome": false,
+          "ScheduleHeader": "Week 14 - Dec 13",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020121303&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIxMzAzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIxMzAzIn0%253d&GameStatsUrl=/Stats/Game/2020121303&GameBoxUrl=/Game/Box/2020121303&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020121303&gameId=2020121303",
+            "IsDefault": "False"
+          },
+          "Id": 2020121303,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-12-13",
+            "Text": "December 13, 2020",
+            "Time": "4:25 PM",
+            "Timestamp": "2020-12-13T21:25:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "DET",
+            "FullName": "Detroit Lions",
+            "Name": "LIONS",
+            "City": "Detroit",
+            "Record": "5-11"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "31-24 W",
+          "Home": false,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020121303&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIxMzAzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIxMzAzIn0%253d&GameStatsUrl=/Stats/Game/2020121303&GameBoxUrl=/Game/Box/2020121303&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020121303&gameId=2020121303"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020121303"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 15",
+          "Label": "15",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":13",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "16",
+          "HomeScore": "24",
+          "Down": "2ND & 11, CAR 27",
+          "IsHome": true,
+          "ScheduleHeader": "Week 15 - Dec 19",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020121901&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIxOTAxIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIxOTAxIn0%253d&GameStatsUrl=/Stats/Game/2020121901&GameBoxUrl=/Game/Box/2020121901&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020121901&gameId=2020121901",
+            "IsDefault": "False"
+          },
+          "Id": 2020121901,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-12-19",
+            "Text": "December 19, 2020",
+            "Time": "8:15 PM",
+            "Timestamp": "2020-12-20T01:15:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "CAR",
+            "FullName": "Carolina Panthers",
+            "Name": "PANTHERS",
+            "City": "Carolina",
+            "Record": "5-11"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "24-16 W",
+          "Home": true,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020121901&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIxOTAxIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIxOTAxIn0%253d&GameStatsUrl=/Stats/Game/2020121901&GameBoxUrl=/Game/Box/2020121901&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020121901&gameId=2020121901"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020121901"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 16",
+          "Label": "16",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":31",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "14",
+          "HomeScore": "40",
+          "Down": "4TH & 13, GB 11",
+          "IsHome": true,
+          "ScheduleHeader": "Week 16 - Dec 27",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020122713&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIyNzEzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIyNzEzIn0%253d&GameStatsUrl=/Stats/Game/2020122713&GameBoxUrl=/Game/Box/2020122713&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020122713&gameId=2020122713",
+            "IsDefault": "False"
+          },
+          "Id": 2020122713,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2020-12-27",
+            "Text": "December 27, 2020",
+            "Time": "8:20 PM",
+            "Timestamp": "2020-12-28T01:20:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "TEN",
+            "FullName": "Tennessee Titans",
+            "Name": "TITANS",
+            "City": "Tennessee",
+            "Record": "11-5"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "40-14 W",
+          "Home": true,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2020122713&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIyNzEzIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIwMTIyNzEzIn0%253d&GameStatsUrl=/Stats/Game/2020122713&GameBoxUrl=/Game/Box/2020122713&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2020122713&gameId=2020122713"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2020122713"
+            }
+          ],
+          "SecondaryButtons": []
+        },
+        {
+          "Week": "Week 17",
+          "Label": "17",
+          "TV": "",
+          "Radio": "",
+          "Venue": "Soldier Field",
+          "WLT": "W",
+          "GameState": "Final",
+          "Clock": ":09",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "35",
+          "HomeScore": "16",
+          "Down": "2ND & 1, GB 1",
+          "IsHome": false,
+          "ScheduleHeader": "Week 17 - Jan 3",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2021010302&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIxMDEwMzAyIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIxMDEwMzAyIn0%253d&GameStatsUrl=/Stats/Game/2021010302&GameBoxUrl=/Game/Box/2021010302&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2021010302&gameId=2021010302",
+            "IsDefault": "False"
+          },
+          "Id": 2021010302,
+          "Type": "F",
+          "Date": {
+            "Numeric": "2021-01-03",
+            "Text": "January 3, 2021",
+            "Time": "4:25 PM",
+            "Timestamp": "2021-01-03T21:25:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "CHI",
+            "FullName": "Chicago Bears",
+            "Name": "BEARS",
+            "City": "Chicago",
+            "Record": "8-8"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "35-16 W",
+          "Home": false,
+          "Buttons": [
+            {
+              "Title": "GAME CENTER",
+              "URL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2021010302&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIxMDEwMzAyIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIxMDEwMzAyIn0%253d&GameStatsUrl=/Stats/Game/2021010302&GameBoxUrl=/Game/Box/2021010302&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2021010302&gameId=2021010302"
+            },
+            {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/GT_GAME_CENTER?id=2021010302"
+            }
+          ],
+          "SecondaryButtons": []
+        }
+      ]
+    },
+    {
+      "Heading": "POSTSEASON",
+      "Game": [
+        {
+          "Week": "Divisional Playoffs",
+          "Label": "DC",
+          "TV": "FOX",
+          "Radio": "",
+          "Venue": "Lambeau Field",
+          "WLT": "",
+          "GameState": "Pregame",
+          "Clock": "-",
+          "QuarterShorthand": "",
+          "Quarter": "",
+          "AwayScore": "",
+          "HomeScore": "",
+          "Down": "",
+          "IsHome": true,
+          "ScheduleHeader": "Divisional Playoffs - Jan 16",
+          "IsSuperStadium": false,
+          "CardData": {
+            "ClickthroughURL": "yc://feature/CARDS_TABS?league=NFL&title=Game%20Center&majorResource=GT_BOX_CARDS&minorResource=2021011600&path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIxMDExNjAwIn0%253d&Path=%2fWaistband%2fGCWaistband%3fcontext%3deyJnYW1lSWQiOiIyMDIxMDExNjAwIn0%253d&GameStatsUrl=/Stats/Game/2021011600&GameBoxUrl=/Game/Box/2021011600&MediaUrl=%2FMedia%2FTaggedList%2fgame%2F2021011600&gameId=2021011600",
+            "IsDefault": "False"
+          },
+          "Id": 2021011600,
+          "Type": "S",
+          "Date": {
+            "Numeric": "2021-01-16",
+            "Text": "January 16, 2021",
+            "Time": "4:35 PM",
+            "Timestamp": "2021-01-16T21:35:00Z",
+            "IsTBA": "false",
+            "IsTba": "false"
+          },
+          "Opponent": {
+            "TriCode": "LAR",
+            "FullName": "Los Angeles Rams",
+            "Name": "RAMS",
+            "City": "Los Angeles",
+            "Record": "10-6"
+          },
+          "Tickets": {
+            "HasLink": false,
+            "Label": "",
+            "Link": ""
+          },
+          "Result": "",
+          "Home": true,
+          "Buttons": [],
+          "SecondaryButtons": []
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "Name": "Season Start Year",
+      "QueryParameter": "year",
+      "Placeholder": "Select Season",
+      "Type": "Dropdown",
+      "Current": "2020",
+      "Items": [
+        {
+          "Id": "2020",
+          "Name": "2020"
+        },
+        {
+          "Id": "2019",
+          "Name": "2019"
+        },
+        {
+          "Id": "2018",
+          "Name": "2018"
+        },
+        {
+          "Id": "2017",
+          "Name": "2017"
+        },
+        {
+          "Id": "2016",
+          "Name": "2016"
+        },
+        {
+          "Id": "2015",
+          "Name": "2015"
+        },
+        {
+          "Id": "2014",
+          "Name": "2014"
+        },
+        {
+          "Id": "2013",
+          "Name": "2013"
+        },
+        {
+          "Id": "2012",
+          "Name": "2012"
+        },
+        {
+          "Id": "2011",
+          "Name": "2011"
+        }
+      ]
+    }
+  ],
+  "YinzNode": {
+    "InVenue": false,
+    "VenueStatus": "O",
+    "Carrier": "NC",
+    "Ads": "YC",
+    "Generated": "1/14/2021 1:35:41 PM"
+  }
+}
